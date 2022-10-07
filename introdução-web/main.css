@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(37, 41, 41);
+    color: white;
+    font-family: monospace;
+    padding: 24px;
+}
+.title{
+    font-size: 48px;
+    color: red;
+}
+.list-item{
+    margin-bottom: 24px;
+    font-size: 24px;
+}
+input {
+    height: 32px;
+    background-color: transparent;
+    color: white;
+    border-color: red;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 8px;
+    font-family: monospace;
+}
+button{
+    background-color: black;
+    color: white;
+    border-width: 0px;
+    font-size: 16px;
+    padding: 14px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family:monospace
+
+}
